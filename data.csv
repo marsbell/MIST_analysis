@@ -1,0 +1,187 @@
+Object, Filter, Limiting_Mag, Notes
+SN1964H, acs.f555w.ut221110_0003.drz.fits, 26.4546, two partial objects
+SN1964H, acs.f814w.ut221110_0002.drz.fits, 26.1224, three partial objects
+SN1964H, wfpc2.f300w.ut010722_0001.drz.fits, 24.7989, nothing
+SN1969L, acs.f555w.ut221025_0002.drz.fits, 26.9633, one full object one partial object
+SN1969L, acs.f814w.ut221025_0001.drz.fits, 27.2155, nothing
+SN1980D, acs.f555w.ut230610_0002.drz.fits, 26.8269, nothing
+SN1980D, acs.f814w.ut230610_0001.drz.fits, 26.8553, nothing
+SN1986K, acs.f555w.ut221030_0002.drz.fits, 26.9549, nothing
+SN1986K, acs.f814w.ut221030_0001.drz.fits, 26.9237, nothing
+SN1995AG, acs.f555w.ut230228_0002.drz.fits, 26.9748, nothing
+SN1995AG, acs.f814w.ut230228_0001.drz.fits, 26.9531, nothing 
+SN2004CM, acs.f555w.ut221107_0002.drz.fits, 25.7712, middle of galaxy
+SN2004CM, acs.f814w.ut221107_0001.drz.fits, 25.6151, middle of galaxy
+SN2005AD, acs.f555w.ut230121_0002.drz.fits, 26.6735, nothing
+SN2005AD, acs.f814w.ut230121_0001.drz.fits, 27.0351, nothing
+SN2008FB, acs.f555w.ut230307_0002.drz.fits, 26.9222, nothing
+SN2008FB, acs.f814w.ut230307_0001.drz.fits, 26.9284, nothing
+SN2009BW, acs.f555w.ut221202_0002.drz.fits, 26.2647, several partial objects
+SN2009BW, acs.f814w.ut221202_0001.drz.fits, 25.892, two partial objects
+SN2010GI, acs.f555w.ut230415_0002.drz.fits, 25.789, nothing
+SN2010GI, acs.f814w.ut230415_0001.drz.fits, 25.6842, several partial objects
+SN2015V, acs.f555w.ut230307_0002.drz.fits, 26.1801, nothing
+SN2015V, acs.f814w.ut230307_0001.drz.fits, 25.9095, nothing
+SN2016COK, acs.f435w.ut041230_0006.drz.fits, 26.176, nothing
+SN2016COK, acs.f555w.ut091214_0007.drz.fits, 25.7825, nothing
+SN2016COK, acs.f555w.ut230510_0018.drz.fits, 25.753, nothing
+SN2016COK, acs.f658n.ut041230_0005.drz.fits, 24.5394, nothing
+SN2016COK, acs.f814w.ut091214_0008.drz.fits, 25.3145, nothing
+SN2016COK, acs.f814w.ut190417_0011.drz.fits, 25.4087, nothing
+SN2016COK, acs.f814w.ut230510_0017.drz.fits, 25.3454, nothing
+SN2016COK, wfc3.f275w.ut191111_0015.drz.fits, 26.7128, nothing
+SN2016COK, wfc3.f336w.ut191111_0014.drz.fits, 26.4073, nothing
+SN2016COK, wfc3.f438w.ut191111_0013.drz.fits, 26.0848, nothing
+SN2016COK, wfc3.f555w.ut131128_0009.drz.fits, 26.0793, nothing
+SN2016COK, wfc3.f555w.ut191111_0016.drz.fits, 25.9383, nothing
+SN2016COK, wfc3.f814w.ut131128_0010.drz.fits, 25.4934, nothing
+SN2016COK, wfc3.f814w.ut191111_0012.drz.fits, 25.466, nothing
+SN2016COK, wfpc2.f555w.ut010304_0003.drz.fits, 26.0085, nothing
+SN2016COK, wfpc2.f606w.ut011126_0004.drz.fits, 25.673, one partial object
+SN2016COK, wfpc2.f606w.ut941228_0001.drz.fits, 26.1681, nothing
+SN2016COK, wfpc2.f814w.ut010224_0002.drz.fits, 25.4525, nothing
+SN2017BZB, acs.f555w.ut221026_0002.drz.fits, 26.4975, two partial objects
+SN2017BZB, acs.f555w.ut221026_0003.drz.fits, 26.4975, two partial objects
+SN2017BZB, acs.f814w.ut221026_0001.drz.fits, 26.8367, two partial objects
+SN2017BZB, acs.f814w.ut221026_0002.drz.fits, 26.8367, two partial objects
+SN2017EAW, acs.f435w.ut201111_0019.drz.fits, 28.5692, one full object
+SN2017EAW, acs.f435w.ut201111_0021.drz.fits, 28.5692, one full object
+SN2017EAW, acs.f555w.ut221211_0024.drz.fits, 26.7744, one full object
+SN2017EAW, acs.f555w.ut221211_0027.drz.fits, 26.7744, one full object
+SN2017EAW, acs.f606w.ut161026_0007.drz.fits, 27.9589, nothing
+SN2017EAW, acs.f606w.ut161026_0009.drz.fits, 27.9589, nothing
+SN2017EAW, acs.f606w.ut201111_0018.drz.fits, 27.7272, one full object
+SN2017EAW, acs.f606w.ut201111_0020.drz.fits, 27.7272, one full object
+SN2017EAW, acs.f606w.ut201112_0022.drz.fits, 27.9221, one full object
+SN2017EAW, acs.f658n.ut040729_0002.drz.fits, 24.5157, nothing
+SN2017EAW, acs.f658n.ut040729_0004.drz.fits, 24.5157, nothing
+SN2017EAW, acs.f814w.ut040729_0001.drz.fits, 25.9853, one partial object
+SN2017EAW, acs.f814w.ut040729_0003.drz.fits, 25.9853, one partial object
+SN2017EAW, acs.f814w.ut161026_0008.drz.fits, 27.1824, one full object
+SN2017EAW, acs.f814w.ut161026_0010.drz.fits, 27.1824, one full object
+SN2017EAW, acs.f814w.ut221211_0023.drz.fits, 26.7333, one full object
+SN2017EAW, acs.f814w.ut221211_0026.drz.fits, 26.7333, one full object
+SN2017EAW, wfc3.f110w.ut160209_0004.drz.fits, 25.4633, one full object
+SN2017EAW, wfc3.f110w.ut160209_0006.drz.fits, 25.4094, one full object
+SN2017EAW, wfc3.f128n.ut160209_0003.drz.fits, 24.5594, one full object
+SN2017EAW, wfc3.f128n.ut160209_0005.drz.fits, 24.508, one full object
+SN2017EAW, wfc3.f160w.ut161024_0006.drz.fits, 24.8436, one full object
+SN2017EAW, wfc3.f160w.ut161024_0008.drz.fits, 24.7533, one full object
+SN2017EAW, wfc3.f164n.ut161024_0005.drz.fits, 24.5212, one full object
+SN2017EAW, wfc3.f164n.ut161024_0007.drz.fits, 24.5196, one full object
+SN2017EAW, wfc3.f275w.ut201103_0015.drz.fits, 27.6084, one partial object
+SN2017EAW, wfc3.f275w.ut201103_0017.drz.fits, 27.6084, one partial object
+SN2017EAW, wfc3.f336w.ut201103_0014.drz.fits, 27.5401, one full object
+SN2017EAW, wfc3.f336w.ut201103_0016.drz.fits, 27.5401, one full object
+SN2017EAW, wfc3.f547m.ut190127_0013.drz.fits, 26.8781, one partial object
+SN2017EAW, wfc3.f555w.ut180105_0010.drz.fits, 25.2365, one full object
+SN2017EAW, wfc3.f555w.ut201111_0017.drz.fits, 27.0881, one partial object
+SN2017EAW, wfc3.f555w.ut220212_0022.drz.fits, 27.1778, one partial object
+SN2017EAW, wfc3.f657n.ut190127_0011.drz.fits, 25.4476, one partial object
+SN2017EAW, wfc3.f673n.ut190127_0012.drz.fits, 25.5731, one partial object
+SN2017EAW, wfc3.f814w.ut180105_0009.drz.fits, 23.726, one full object
+SN2017EAW, wfc3.f814w.ut201111_0016.drz.fits, 26.3736, one full object
+SN2017EAW, wfc3.f814w.ut220212_0021.drz.fits, 26.4404, one full object
+SN2017HTA, acs.f555w.ut221126_0002.drz.fits, 26.853, nothing
+SN2017HTA, acs.f814w.ut221126_0001.drz.fits, 27.0158, nothing
+SN2018GI, acs.f435w.ut090613_0002.drz.fits, 27.3319, one full object
+SN2018GI, acs.f555w.ut230227_0010.drz.fits, 26.9053, nothing
+SN2018GI, acs.f625w.ut090613_0001.drz.fits, 27.1383, one partial object
+SN2018GI, acs.f658n.ut090708_0004.drz.fits, 24.7344, one partial object
+SN2018GI, acs.f814w.ut090708_0003.drz.fits, 27.1927, nothing
+SN2018GI, acs.f814w.ut230227_0009.drz.fits, 27.1672, nothing
+SN2018GI, wfc3.f555w.ut210127_0007.drz.fits, 27.279, nothing
+SN2018GI, wfc3.f625w.ut190516_0005.drz.fits, 27.6655, nothing
+SN2018GI, wfc3.f814w.ut190516_0006.drz.fits, 27.3341, nothing
+SN2018GI, wfc3.f814w.ut210127_0008.drz.fits, 26.412, nothing
+SN2018ZD, acs.f555w.ut230115_0009.drz.fits, 26.9002, nothing
+SN2018ZD, acs.f658n.ut040410_0002.drz.fits, 24.616, nothing
+SN2018ZD, acs.f814w.ut040410_0001.drz.fits, 25.9762, nothing
+SN2018ZD, acs.f814w.ut230115_0008.drz.fits, 26.8484, nothing
+SN2018ZD, wfc3.f225w.ut130307_0003.drz.fits, 26.2898, nothing
+SN2018ZD, wfc3.f555w.ut190519_0004.drz.fits, 27.453, one partial object
+SN2018ZD, wfc3.f606w.ut210207_0007.drz.fits, 27.1951, nothing
+SN2018ZD, wfc3.f814w.ut190519_0005.drz.fits, 26.661, one partial object
+SN2018ZD, wfc3.f814w.ut210207_0006.drz.fits, 26.5548, nothing
+SN2019EL, acs.f555w.ut221108_0002.drz.fits, 26.9014, nothing
+SN2019EL, acs.f814w.ut221108_0001.drz.fits, 27.2179, nothing
+SN2019ESA, acs.f555w.ut230501_0002.drz.fits, 26.9118, nothing
+SN2019ESA, acs.f814w.ut230501_0001.drz.fits, 27.1064, nothing
+SN2020ABJQ, acs.f555w.ut230102_0004.drz.fits, 26.7672, several partial objects
+SN2020ABJQ, acs.f814w.ut230102_0003.drz.fits, 26.7922, one full object
+SN2020ABJQ, wfc3.f555w.ut220913_0002.drz.fits, 27.1844, one full object
+SN2020ABJQ, wfc3.f814w.ut220913_0001.drz.fits, 26.4566, one full object
+SN2020MMZ, acs.f555w.ut230610_0003.drz.fits, 25.1872, middle of galaxy
+SN2020MMZ, acs.f814w.ut230610_0002.drz.fits, 24.5844, middle of galaxy
+SN2020MMZ, wfc3.f275w.ut221002_0001.drz.fits, 25.7952, nothing
+SN2020PNI, acs.f555w.ut230318_0003.drz.fits, 26.1164, several partial objects
+SN2020PNI, acs.f814w.ut230318_0002.drz.fits, 25.9746, one full object
+SN2020PNI, wfc3.f153m.ut220923_0001.drz.fits, 21.4753, nothing
+SN2020ZBV, acs.f555w.ut230525_0010.drz.fits, 26.5725, nothing
+SN2020ZBV, acs.f555w.ut230525_0012.drz.fits, 26.5717, nothing
+SN2020ZBV, acs.f814w.ut230525_0009.drz.fits, 25.9533, nothing
+SN2020ZBV, acs.f814w.ut230525_0011.drz.fits, 25.9415, nothing
+SN2020ZBV, wfc3.f275w.ut220130_0003.drz.fits, 26.0975, nothing
+SN2020ZBV, wfc3.f275w.ut220130_0005.drz.fits, 26.1151, nothing
+SN2020ZBV, wfc3.f336w.ut221110_0006.drz.fits, 25.1922, nothing
+SN2020ZBV, wfc3.f336w.ut221110_0008.drz.fits, 25.2493, nothing
+SN2020ZBV, wfc3.f438w.ut221204_0008.drz.fits, 26.5214, nothing
+SN2020ZBV, wfc3.f438w.ut221204_0010.drz.fits, 26.5013, nothing
+SN2020ZBV, wfc3.f555w.ut190615_0002.drz.fits, 26.8902, nothing
+SN2020ZBV, wfc3.f555w.ut190615_0004.drz.fits, 26.9408, nothing
+SN2020ZBV, wfc3.f555w.ut220911_0005.drz.fits, 26.9584, nothing
+SN2020ZBV, wfc3.f555w.ut220911_0007.drz.fits, 26.9685, nothing
+SN2020ZBV, wfc3.f625w.ut221110_0007.drz.fits, 25.7935, nothing
+SN2020ZBV, wfc3.f625w.ut221110_0009.drz.fits, 25.7766, nothing
+SN2020ZBV, wfc3.f814w.ut190615_0001.drz.fits, 25.978, nothing
+SN2020ZBV, wfc3.f814w.ut190615_0003.drz.fits, 25.978, nothing
+SN2020ZBV, wfc3.f814w.ut220911_0004.drz.fits, 26.0106, nothing
+SN2020ZBV, wfc3.f814w.ut220911_0006.drz.fits, 26.0106, nothing
+SN2020ZXD, acs.f555w.ut230605_0004.drz.fits, 26.2985, one partial object
+SN2020ZXD, acs.f814w.ut230605_0003.drz.fits, 26.0519, one partial object
+SN2020ZXD, wfc3.f555w.ut210212_0002.drz.fits, 26.5907, one partial object
+SN2020ZXD, wfc3.f814w.ut210212_0001.drz.fits, 26.0145, one partial object
+SN2021ABKM, acs.f555w.ut230309_0003.drz.fits, 26.7591, one partial object
+SN2021ABKM, acs.f814w.ut230309_0002.drz.fits, 26.9663, one full object
+SN2021ABKM, wfc3.f275w.ut210327_0001.drz.fits, 26.439, nothing
+SN2021BUG, acs.f555w.ut230510_0004.drz.fits, 26.6356, one partial object
+SN2021BUG, acs.f814w.ut230510_0003.drz.fits, 26.5909, one partial object
+SN2021BUG, wfc3.f555w.ut220227_0002.drz.fits, 27.0116, one partial object 
+SN2021BUG, wfc3.f814w.ut220227_0001.drz.fits, 26.3994, one partial object
+SN2021DBG, acs.f555w.ut230120_0002.drz.fits, 26.4343, one full object
+SN2021DBG, acs.f814w.ut230120_0001.drz.fits, 26.1416, several partial objects
+SN2021SJT, acs.f555w.ut230222_0022.drz.fits, 26.2262, several partial objects
+SN2021SJT, acs.f658n.ut031024_0007.drz.fits, 24.5325, nothing
+SN2021SJT, acs.f814w.ut031024_0006.drz.fits, 25.3798, one full object
+SN2021SJT, acs.f814w.ut190522_0016.drz.fits, 25.8698, one full object
+SN2021SJT, acs.f814w.ut230222_0021.drz.fits, 25.7597, one full object
+SN2021SJT, wfc3.f110w.ut160305_0010.drz.fits, 24.457, nothing
+SN2021SJT, wfc3.f128n.ut160305_0011.drz.fits, 24.2601, nothing
+SN2021SJT, wfc3.f555w.ut151125_0009.drz.fits, 26.5077, several partial objects
+SN2021SJT, wfc3.f555w.ut161015_0013.drz.fits, 26.4286, one full object
+SN2021SJT, wfc3.f555w.ut171110_0015.drz.fits, 26.5299, several partial objects
+SN2021SJT, wfc3.f555w.ut201213_0018.drz.fits, 26.4869, several partial objects
+SN2021SJT, wfc3.f555w.ut220217_0020.drz.fits, 26.5422, one full object
+SN2021SJT, wfc3.f814w.ut151125_0008.drz.fits, 25.8052, one full object
+SN2021SJT, wfc3.f814w.ut161015_0012.drz.fits, 25.7739, one full object
+SN2021SJT, wfc3.f814w.ut171110_0014.drz.fits, 25.8366, one full object
+SN2021SJT, wfc3.f814w.ut201213_0017.drz.fits, 25.8091, one full object
+SN2021SJT, wfc3.f814w.ut220217_0019.drz.fits, 25.8327, one full object
+SN2021SJT, wfpc2.f218w.ut940716_0001.drz.fits, 24.6056, nothing
+SN2021SJT, wfpc2.f547m.ut940716_0002.drz.fits, 25.8525, nothing
+SN2021SJT, wfpc2.f555w.ut010508_0005.drz.fits, 26.0077, several partial objects
+SN2021SJT, wfpc2.f814w.ut001030_0003.drz.fits, 25.2462, several partial objects
+SN2021SJT, wfpc2.f814w.ut010425_0004.drz.fits, 25.3596, one full object several partial objects
+SN2021TYW, acs.f555w.ut221110_0002.drz.fits, 25.1239, middle of galaxy
+SN2021TYW, acs.f814w.ut221110_0001.drz.fits, 24.7478, middle of galaxy
+SN2021VAZ, acs.f555w.ut221126_0009.drz.fits, 26.1827, several partial objects
+SN2021VAZ, acs.f606w.ut200321_0005.drz.fits, 26.0637, several partial objects
+SN2021VAZ, acs.f814w.ut221126_0008.drz.fits, 25.5225, several partial objects
+SN2021VAZ, wfc3.f606w.ut220104_0007.drz.fits, 26.2248, nothing
+SN2021VAZ, wfc3.f814w.ut220104_0006.drz.fits, 25.33, nothing
+SN2021VAZ, wfpc2.f218w.ut940828_0001.drz.fits, 22.8607, nothing
+SN2021VAZ, wfpc2.f547m.ut010714_0004.drz.fits, 26.3215, several partial objects
+SN2021VAZ, wfpc2.f547m.ut940828_0002.drz.fits, 24.8445, one partial object
+SN2021VAZ, wfpc2.f606w.ut010222_0003.drz.fits, 26.1598, nothing
+SN2022FFG, acs.f555w.ut230510_0002.drz.fits, 25.9486, one partial object
+SN2022FFG, acs.f814w.ut230510_0001.drz.fits, 25.8366, one full object
